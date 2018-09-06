@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rapha\Dropbox\Dropbox\trabalho\disciplinas\LabMovel\2017.1\LabMovel-2017.1\Material de aula\Aula04\GeoQuiz\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="bcf0b915874e96de4c9f1d3971b02c24121e2674">
+        <dex dex="C:\Users\rapha\Dropbox\Dropbox\trabalho\disciplinas\LabMovel\2017.1\LabMovel-2017.1\Material de aula\Aula04\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_add8c164af5c1c97b160c33620b315c4a3512d0a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\rapha\Dropbox\Dropbox\trabalho\disciplinas\LabMovel\2017.1\LabMovel-2017.1\Material de aula\Aula04\GeoQuiz\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="25.0.2"
+        sha1="8dea806efb8a060b193c823fc38510d714015d69">
+        <dex dex="C:\Users\rapha\Dropbox\Dropbox\trabalho\disciplinas\LabMovel\2017.1\LabMovel-2017.1\Material de aula\Aula04\GeoQuiz\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_fdd8c5c3a55e3cf499aa85665ca3fbd4cd2c4d8e\classes.dex" />
+    </item>
+
+</items>
